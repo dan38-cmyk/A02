@@ -19,3 +19,11 @@ Then the download option should have started autmatically
 Once downloaded the setup manager should automatically pop up, where you agree to what ever they you to accept for legal purposes
 Then it should automatically start the install, and once done you can select the option to launch or view release notes, select your desired one and click finish
 To verify if installed correctly you can open up terminal and run the command "git --version" if a version is given back to you, you are set up to go
+
+Explains step by step on how to install visual studio code (vsc)
+Head over to https://code.visualstudio.com/
+Click the button right in the middle to download for your operating system
+It should lead you to automatically start downloading and once done you open it
+This will open up the set up installer where you again accept some legal stuff they must have you accept and hit next
+This will lead you to selecting additional tasks where you check which options you desire and then click next
+This will lead you to the last page where you just confirm and hit install and then finish once its complete
