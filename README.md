@@ -27,3 +27,22 @@ It should lead you to automatically start downloading and once done you open it
 This will open up the set up installer where you again accept some legal stuff they must have you accept and hit next
 This will lead you to selecting additional tasks where you check which options you desire and then click next
 This will lead you to the last page where you just confirm and hit install and then finish once its complete
+
+Glossary
+  Branch - Work on different versions or features at the same time.
+  Clone - Make a copy of a remote repository on your computer.
+  Commit - Save a snapshot of your staged changes.
+  Fetch - downloads new commits from a remote without merging them into your current branch. It only updates your remote-tracking branches
+  GIT - Git is a version control system that tracks changes to files. It lets you work on your own copy of a project, record a history of your changes, and merge your work with other people's changes safely.
+  Github - GitHub is a platform for building software. Whether you are starting a new project or contributing to an existing one, GitHub brings together the tools and workflows you need across every stage of the software development              life cycle (SDLC).
+  Merge -  Combine changes from different branches.
+  Merge Conflict - A merge conflict happens when two branches change the same lines of a file and Git cannot combine them automatically. Git marks the conflicting spot with <<<<<<<, =======, and >>>>>>> and waits for you to choose the                    right result
+  Push - Send your changes to a remote repository.
+  Pull - Get the latest changes from a remote repository.
+  Remote - A remote is a copy of a repository hosted somewhere else, usually reached over a URL. GitHub is one popular place to host a remote
+  Repository - A folder where Git tracks your project and its history.
+  
+Reference List
+https://www.w3schools.com/GIT/git_intro.asp
+https://docs.github.com/en/get-started/start-your-journey/what-is-github
+https://docs.scrimba.com/git/glossary
