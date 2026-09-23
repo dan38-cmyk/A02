@@ -11,7 +11,7 @@ Below that is a couple options for configurations
 Visibility shows who can see your repo, you can add a README file, add a .gitignore to protect any confidential data, and if you want to add any licenses
 Once you configure everything to how you like, you select create repository on the bottom right and you are all set
 How to use:
-Github is kind of like the social media for code almost. It allows you to upload your code to the cloud where you can save it and access it from any other computer. Lets say I have a specific project I am working on my pc and want to work on it from a laptop when I am not home. I can then upload the code from my pc to github and then pull it from my laptop and work on it and then commit it once I finish it and push it so I can then fetch the new version back on my pc already.
+Github is kind of like the social media for code almost. It allows you to upload your code to the cloud where you can save it and access it from any other computer. Lets say I have a specific project I am working on my pc and want to work on it from a laptop when I am not home. I can then upload the code from my pc to github and then pull it from my laptop and work on it and then commit it once I finish it and push it so I can then pull the new version back on my pc already.
 
 Explains step by step on how to install git
 Head over to https://git-scm.com/
@@ -35,20 +35,20 @@ How to use:
 Visual studio code is a code editor you can use. I prefer it as it has a wide selection of extensions you can add to personalize it more towards how you want. You can also add features like AI into it as well to assist in error solving. It helps run and save and test your code all in one place. It works on all operating systems and is very user friendly as it highlights certain things to make it easier to identify and will help with auto populating the } when you first press {.
 
 Glossary
-  Branch - Work on different versions or features at the same time.
-  Clone - Make a copy of a remote repository on your computer.
-  Commit - Save a snapshot of your staged changes.
-  Fetch - downloads new commits from a remote without merging them into your current branch. It only updates your remote-tracking branches
-  GIT - Git is a version control system that tracks changes to files. It lets you work on your own copy of a project, record a history of your changes, and merge your work with other people's changes safely.
-  Github - GitHub is a platform for building software. Whether you are starting a new project or contributing to an existing one, GitHub brings together the tools and workflows you need across every stage of the software development            life cycle (SDLC).
-  Merge -  Combine changes from different branches.
-  Merge Conflict - A merge conflict happens when two branches change the same lines of a file and Git cannot combine them automatically. Git marks the conflicting spot with <<<<<<<, =======, and >>>>>>> and waits for you to choose                      the right result
-  Push - Send your changes to a remote repository.
-  Pull - Get the latest changes from a remote repository.
-  Remote - A remote is a copy of a repository hosted somewhere else, usually reached over a URL. GitHub is one popular place to host a remote
-  Repository - A folder where Git tracks your project and its history.
+* **Branch** - Work on different versions or features at the same time.
+* **Clone** - Make a copy of a remote repository on your computer.
+* **Commit** - Save a snapshot of your staged changes.
+* **Fetch** - downloads new commits from a remote without merging them into your current branch. It only updates your remote-tracking branches
+* **GIT** - Git is a version control system that tracks changes to files. It lets you work on your own copy of a project, record a history of your changes, and merge your work with other people's changes safely.
+* **Github** - GitHub is a platform for building software. Whether you are starting a new project or contributing to an existing one, GitHub brings together the tools and workflows you need across every stage of the software development life cycle (SDLC).
+* **Merge** -  Combine changes from different branches.
+* **Merge Conflict** - A merge conflict happens when two branches change the same lines of a file and Git cannot combine them automatically. Git marks the conflicting spot with <<<<<<<, =======, and >>>>>>> and waits for you to choose the right result
+* **Push** - Send your changes to a remote repository.
+* **Pull** - Get the latest changes from a remote repository.
+* **Remote** - A remote is a copy of a repository hosted somewhere else, usually reached over a URL. GitHub is one popular place to host a remote
+* **Repository** - A folder where Git tracks your project and its history.
   
 Reference List
-  https://www.w3schools.com/GIT/git_intro.asp
-  https://docs.github.com/en/get-started/start-your-journey/what-is-github
-  https://docs.scrimba.com/git/glossary
+* W3Schools. "Git Introduction." https://www.w3schools.com/GIT/git_intro.asp
+* GitHub Docs. "What is GitHub?" https://docs.github.com/en/get-started/start-your-journey/what-is-github
+* Scrimba Docs. "Git Glossary." https://docs.scrimba.com/git/glossary
